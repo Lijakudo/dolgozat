@@ -21,5 +21,9 @@ class Tavolsag {
 		System.out.print("Adja meg a szoget: ");
 		double szog = scan.nextDouble();
 		
+		double tavolsag = mag/(szog/180*Math.PI);
+		
+		System.out.println("A tavolsag: " +tavolsag );
+		
 		}
 	}
