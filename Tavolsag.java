@@ -13,7 +13,7 @@ class Tavolsag {
 	public static void main(String[] args) {
 		
 		System.out.println("Szekely Marton SZOFT I/N");
-		System.out.println("2022-02-22");
+		System.out.println("2022-02-22, Feladat: 349");
 		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Adja meg a magassagot: ");
